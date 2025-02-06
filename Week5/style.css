@@ -1,0 +1,35 @@
+body {
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+}
+.half{
+    width: 50%;
+}
+.height1{
+    height: 150px;
+}
+.height2{
+    height: 50px;
+}
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.grey{
+    background-color: grey;
+}
+.violet{
+    background-color: violet;
+}
