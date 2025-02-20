@@ -1,0 +1,20 @@
+Follow and create the HTML and CSS of the layout found in OBJPROG_Prelim_Lab (without the red circle and its number):
+
+Below are the image assets that should use on the web page template:
+https://bit.ly/webdes_midterm_files
+
+Universal Font: Arial
+
+Color Swatches and Font used:
+
+1 - #646266
+2 - #7b798f (Body background)
+3 - #ede4d6
+4 - #ada982
+5 - #4c4341, font family is Garamond
+
+File Structure: 
+OBJPROG-Prelim-FamilyName (folder)
+index.html
+style.css
+images (folder)
