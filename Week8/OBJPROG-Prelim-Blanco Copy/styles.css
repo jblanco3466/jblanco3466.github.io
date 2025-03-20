@@ -1,0 +1,136 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #7b798f;
+    color: #4c4341;
+    padding: none;
+    margin: 0 70px;
+
+}
+.header{
+    display:flex;
+    background-color: #646266;
+    padding: 20px 40px;
+    justify-content: space-between;
+    align-items: center;
+}
+.fine{
+    color: white;
+    font-weight: normal;
+    letter-spacing: .1rem;
+}
+.navbar{
+    display:flex;
+    padding: 15px 40px;
+    align-items: center;
+    background-color: white;
+    height: 50px;
+}
+.button {
+    font-size: medium;
+    color: #4c4341;
+    display: flex;
+    align-items: center;
+    margin: 0 55px 0 0;
+    border: none;
+    background-color: white;
+}
+.button > img{
+    padding:0 5px 0 0;
+}
+.button:hover{
+    cursor: pointer;
+}
+.banner{
+    display:flex;
+    height:330px;
+    background-image: url(images/gallery_banner.jpg);
+    background-size:cover;
+    background-position: bottom;
+    justify-content: space-between;
+}
+.banner > h1 {
+    font-weight: 100;
+    letter-spacing: .25rem;
+    padding-left: 45px;
+    align-self: flex-end;
+}
+.bannertext{
+    padding-right: 10px;
+    width:23.5%;
+}
+.bannertext> p {
+    font-weight: 300;
+    letter-spacing: .06rem;
+    line-height: 1.6rem;
+}
+
+
+.content{
+    background-color: white;
+    padding: 50px 45px 25px;
+    margin: none;
+    display: flex;
+    gap: 45px;
+    
+}
+.content-1{
+    width: 75%;
+}
+
+.sidebar{
+    width: 25%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sidebar > img{
+    width: 200px;
+}
+hr{
+    padding: 0 0;
+    border:#4c4341 1px solid;
+}
+
+.container1{
+    display: flex;
+    gap: 45px;
+}
+
+.container2{
+    background-color: #ede4d6;
+    width: 50%;
+    padding: 0 20px;
+    height: fit-content;
+}
+
+
+footer{
+    background-color: #ada982;
+    padding: 16px 40px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.font5{  
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+}
+.fwhite{
+    color: white;
+}
+hgroup{
+    font-style: normal;
+    font-weight: normal;
+    margin:none;
+    padding: none;
+}
+
+.link{
+    color: #fcaf57;
+    text-decoration: dotted underline #fcaf57;
+}
+.link:hover{
+    cursor: pointer;
+}

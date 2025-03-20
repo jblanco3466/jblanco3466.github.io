@@ -1,0 +1,24 @@
+
+.fine {
+    letter-spacing: .1rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.font5{
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    color: #4c4341;
+}
+hr {
+    padding: 0 0 !important;
+    border:#4c4341 1px solid !important;
+}
+.link {
+    color: #fcaf57;
+    text-decoration: dotted underline #fcaf57;
+}
+.link:hover {
+    color: #fcaf57;
+    text-decoration: none;
+    cursor: pointer;
+}
